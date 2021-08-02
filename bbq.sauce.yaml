@@ -1,0 +1,48 @@
+# ****************************************************************************
+# A recipe to cook sauce for marinating meat before grilling.
+#
+#
+# ****************************************************************************
+
+information:
+  name: Bbq sauce
+  cuisine: bbq
+  spice: medium
+  serving: enough for 1 kg meat
+ingredients:
+  - red-chilli: 0.5 tbs
+  - black-pepper: 0.5 tbs
+  - salt: 0.25 tbs
+  - honey: 4 tbs
+  - sugar: 4 tbs
+  - oil: 2 tbs
+  - garlic: 2 pices
+  - veniger: 0.25 cup
+  - tomato-sauce: 200g or 0.5 cup
+  - tomato-ketchup: 3 tbs
+  - lemon: 1
+cooking:
+  - name: masala
+    steps:
+      - put heat on medium-high
+      - put oil in a pan
+      - add all the ingredients except ketchup
+      - increase the red chilli optionally for more spice
+      - stir fry the mixture
+  - name: sauce
+    steps:
+      - put heat on low heat
+      - cover the pan with lid
+      - let sauce be boiled
+      - add water little by little if sauce is stickking to pan
+      - let it cook for around 10 minutes
+  - name: seasoning (optional)
+     steps:
+       - trun off the heat after the sauce the thik enough and sticky
+       - put ketchup or chilli sauce
+  - name: usage
+     steps:
+       - cool down the sauce
+       - dip or brush the sauce on all sides of meat steaks or chops for marination
+       - let the meat stay marinated for 1 hour before grilling
+       - enjoy the juicy grilled meat
